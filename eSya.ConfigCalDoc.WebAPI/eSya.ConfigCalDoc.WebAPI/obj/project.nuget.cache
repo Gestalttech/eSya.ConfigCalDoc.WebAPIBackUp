@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UATBaua1S9qzg47bzu9NOHJ23dcWUt6TWBio7aD+OwQfwo1zfudOSM8EWwVmxvssGTd3LXP3UDzPvL90t+GLpQ==",
+  "dgSpecHash": "xwoEkEzWghaB8+zvSZlqRAYNO10rbYODs5uWcksolC9Ar8Rj1snCK9nLRK+rb4yndedvI8eYeEE78QWhuRKXXw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI.csproj",
+  "projectFilePath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
