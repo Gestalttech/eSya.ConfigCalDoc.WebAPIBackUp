@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj",
+      "projectUniqueName": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj",
       "projectName": "eSya.ConfigCalDoc.DO",
-      "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj",
+      "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\obj\\",
+      "outputPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

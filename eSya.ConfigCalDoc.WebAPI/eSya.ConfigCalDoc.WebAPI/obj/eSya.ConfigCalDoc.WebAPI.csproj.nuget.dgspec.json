@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI.csproj": {}
+    "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj": {
+    "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj",
+        "projectUniqueName": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj",
         "projectName": "eSya.ConfigCalDoc.DO",
-        "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj",
+        "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\obj\\",
+        "outputPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj": {
+    "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj",
+        "projectUniqueName": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj",
         "projectName": "eSya.ConfigCalDoc.IF",
-        "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj",
+        "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\obj\\",
+        "outputPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj": {
-                "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj"
+              "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj": {
+                "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj"
               }
             }
           }
@@ -124,14 +124,14 @@
         }
       }
     },
-    "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DL\\eSya.ConfigCalDoc.DL.csproj": {
+    "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DL\\eSya.ConfigCalDoc.DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DL\\eSya.ConfigCalDoc.DL.csproj",
+        "projectUniqueName": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DL\\eSya.ConfigCalDoc.DL.csproj",
         "projectName": "eSya.ConfigCalDoc.DL",
-        "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DL\\eSya.ConfigCalDoc.DL.csproj",
+        "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DL\\eSya.ConfigCalDoc.DL.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DL\\obj\\",
+        "outputPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -151,11 +151,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj": {
-                "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj"
+              "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj": {
+                "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj"
               },
-              "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj": {
-                "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj"
+              "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj": {
+                "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj"
               }
             }
           }
@@ -219,14 +219,14 @@
         }
       }
     },
-    "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI.csproj": {
+    "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI.csproj",
+        "projectUniqueName": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI.csproj",
         "projectName": "eSya.ConfigCalDoc.WebAPI",
-        "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI.csproj",
+        "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\obj\\",
+        "outputPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -246,14 +246,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj": {
-                "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj"
+              "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj": {
+                "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj"
               },
-              "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj": {
-                "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj"
+              "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj": {
+                "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj"
               },
-              "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DL\\eSya.ConfigCalDoc.DL.csproj": {
-                "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DL\\eSya.ConfigCalDoc.DL.csproj"
+              "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DL\\eSya.ConfigCalDoc.DL.csproj": {
+                "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DL\\eSya.ConfigCalDoc.DL.csproj"
               }
             }
           }

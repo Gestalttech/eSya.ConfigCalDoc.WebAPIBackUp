@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj",
+      "projectUniqueName": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj",
       "projectName": "eSya.ConfigCalDoc.IF",
-      "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj",
+      "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\obj\\",
+      "outputPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.IF\\eSya.ConfigCalDoc.IF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,8 +57,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj": {
-              "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj"
+            "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj": {
+              "projectPath": "D:\\Projects\\eSyaProjects2022\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.WebAPI\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO\\eSya.ConfigCalDoc.DO.csproj"
             }
           }
         }
